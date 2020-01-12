@@ -1,0 +1,460 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/ettafly/tmp/awstats/ssl/awstats.ettafly.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2693                
+POS_VISITOR 13958               
+POS_DAY 15341               
+POS_DOMAIN 3404                
+POS_LOGIN 3766                
+POS_ROBOT 3921                
+POS_WORMS 4190                
+POS_EMAILSENDER 4321                
+POS_EMAILRECEIVER 4464                
+POS_SESSION 15637               
+POS_SIDER 15821               
+POS_FILETYPES 4599                
+POS_DOWNLOADS 4888                
+POS_OS 4936                
+POS_BROWSER 5093                
+POS_SCREENSIZE 5550                
+POS_UNKNOWNREFERER 5624                
+POS_UNKNOWNREFERERBROWSER 5951                
+POS_ORIGIN 6300                
+POS_SEREFERRALS 6439                
+POS_PAGEREFS 6583                
+POS_SEARCHWORDS 11265               
+POS_KEYWORDS 11417               
+POS_MISC 2357                
+POS_ERRORS 11476               
+POS_CLUSTER 3622                
+POS_SIDER_404 11618               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200111100443 155 46694 35654642075822
+FirstTime 20200101001057
+LastTime 20200111100443
+LastUpdate 20200111121050 155 0 155 0 0
+TotalVisits 48                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 3990 30 31 29260
+1 5 5 6650 37 37 26600
+2 1 1 1330 2 2 1330
+3 0 0 0 1 1 1330
+4 25 198 13918762 1 12 7018
+5 49 304 15888973 8 38 37318
+6 32 212 11873798 2 25 24872
+7 53 305 14182748 3 25 27425
+8 126 811 45048779 6 86 88888
+9 66 567 28690604 8 47 44312
+10 15 105 7475832 1 9 4520
+11 9 56 4169996 2 4 1130
+12 20 153 7375364 24 32 21610
+13 8 69 4924225 32 34 26200
+14 17 123 7977400 1 21 22600
+15 12 96 7463198 1 18 19210
+16 1 1 1330 1 1 0
+17 20 117 6502830 6 14 9278
+18 0 6 33192 1 1 1330
+19 3 3 3990 0 0 0
+20 1 1 1330 2 2 0
+21 3 3 3990 12 12 3990
+22 2 2 2660 1 1 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+in 425 3018 168767495
+us 17 17 22610
+gb 14 91 6740916
+nl 4 4 5320
+zz 3 3 3990
+gr 2 2 2660
+ru 2 2 2660
+za 1 1 1330
+ma 1 1 1330
+cn 1 1 1330
+dk 1 1 1330
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+scanner 63 83790 20200111010613 0
+no_user_agent 17 21280 20200111005127 0
+libwww\-perl 1 1330 20200109180305 0
+curl 1 0 20200109205137 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+jpg 111 18892309 0 0
+js 781 45230776 0 0
+woff2 202 11363992 0 0
+map 7 2133956 0 0
+css 1045 47552008 0 0
+Unknown 193 34928292 0 0
+ttf 4 213472 0 0
+jpeg 69 2167359 0 0
+html 56 9245684 0 0
+woff 9 223468 0 0
+png 664 3599655 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx11 2 2
+win10 2969 432
+linux 5 5
+macosx12 1 1
+Unknown 7 7
+win7 4 4
+linuxandroid 153 20
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome41.0.2228.0 1 1
+chrome79.0.3945.117 69 8
+chrome79.0.3945.88 2885 409
+firefox47.0 1 1
+chrome57.0.2987.133 2 2
+chrome78.0.3904.62 91 12
+chrome74.0.3729.169 1 1
+chrome65.0.3325.181 1 1
+chrome78.0.3904.108 2 2
+chrome58.0.3029.110 1 1
+chrome72.0.3626.121 2 2
+chrome22.0.1216.0 3 3
+netscape5.0 2 2
+chrome72.0.3602.2 1 1
+chrome79.0.3945.93 62 8
+chrome34.0.1847.137 1 1
+Unknown 6 6
+chrome60.0.3112.113 10 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20200106190328
+Mozilla/5.0_zgrab/0.x 20200106125711
+HTTP_Banner_Detection_(https://security.ipip.net) 20200107045116
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+HTTP_Banner_Detection_(https://security.ipip.net) 20200107045116
+kubectl/v1.12.0_(linux/amd64)_kubernetes/0ed3388 20200107110409
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20200106190328
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 129 129
+From1 0 0
+From2 0 0
+From3 342 3012
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 40
+https://15.206.77.144/ettafly/public/vendor/font-awesome/css/all.min.css 197 197
+https://15.206.77.144/ettafly/payment_conform 45 220
+https://15.206.77.144/ettafly/home/search_flites 20 543
+https://15.206.77.144/ettafly/adminfiles/css/style.css 16 16
+https://15.206.77.144/ettafly/ 11 492
+https://15.206.77.144/ettafly/cmoon/login 9 57
+https://15.206.77.144/ettafly/confirm_details/ckllRVRDL2FqRlNyY1BSOUhXdGI1d293MFptcHpocloxQVZ5TVVIYm1rZ3laUTV6OTQ2WU43YjVIWm5JZVF0dVF5Q1dOK1pDUERaYXNQSkxvVittU1NoNm1sWG9xc1BoeXVFQ3lvUTN3Y0ZwWUV4RDlabm9aYUFNd3p1TkxyWGk= 9 35
+https://15.206.77.144/ettafly/index 6 277
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYkRjZ0gvaHZVWHBWdFcrSlJmS1FMcUtMYkVscTRRQ0F2N01OeHFIblozOUNFbWtwNTZBV0NLSDNaUitVUVpSVVgxS0JJOHhjQU1QTUwxU20wQjRDV2ZERWZ3c0NTdmRKVlJ3SUoweks1RW0= 6 29
+https://15.206.77.144/ettafly/privacy_policy 5 98
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/view 3 61
+https://15.206.77.144/ettafly/adminfiles/plugins/bower_components/dropify/dist/css/dropify.min.css 2 2
+https://15.206.77.144/ettafly/cmoon/dashboard/home 2 86
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/edit/5 2 14
+https://15.206.77.144/ettafly/cmoon/dashboard/site_settings/view 2 29
+https://15.206.77.144/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNdmJUM0tLaW9XdnlTanlLazc0UDVhUG5KWWhRNk1PTjVoclRmRGxHYXliYWw1K3h6WXcvZTR3ODYzZWIyQ3hUS0hRWSs0azlocTVoZjF6eXB3elVkWHZSSkd6NEZGQ2gzNTltVkJHTXZzUzI= 1 24
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/edit/6 1 27
+https://15.206.77.144/ettafly/aboutus 1 12
+https://15.206.77.144 1 1
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYU14RkcwQ3FiUysyd1MyMEVobW1KaWtYNDFiUkFGVmpLYWZGWmNKOExsdlM1SU5nRGVxcTMzbE9MaTdkdm5FK3NYY3N0UjJ4eXBJa0RVU3kvZDNEaVQ0cENMZW5VYWpwcU0vWnhUQmFXalY= 1 8
+https://15.206.77.144/ettafly/confirm_details/NHNsUGNmMVZMVDVWbk1uMUN2bHFSYjFWNmpkeVQzWTFSaWE1UXc4TCtudWhxYnBJVFFMYUtNclVhU1VjRGFDNE1KQ09TVE9NamZGVzZDaVJObktlM01lcCtISGZkQWJOKzYyY3NLalJEbkQxZ2p6NC9samhXYTQ2c2YzVm9FRVQ= 1 31
+https://15.206.77.144/ettafly/cmoon/dashboard/index 1 42
+https://15.206.77.144/ettafly/confirm_details/eU9abHlnWm00TFI3Ylp0OHhrWlVDUlZWWUF5NzlTVzJGVTZBV2dVdmhYOVRXUko1MDZLQW5Ud3p4WVVvcVpiVVBlQ3YweGJRRHN2N3RoNU1MUmh4MVFPc2doa1dWWjU0V3paZW9sOFlmaTVWbUlHYU9qbDM2SlJDNVhWeklJOGo= 0 8
+https://15.206.77.144/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNbE1hLzFibkZqdEtYNkdXTWlJVE05Q0ZVbzBnVVFZL1JjMTFlS29vTGZETEw5RUdNbWZUN2tLWThLdC9ESlJLb1d6a3NVb29Md0tWTUVwWnduVlJNV3Q1R3UvMVYweU55eWJlT2ovTUUzM24= 0 23
+https://15.206.77.144/ettafly/adminfiles/plugins/bower_components/editor_ck/skins/moono-lisa/editor.css 0 2
+https://15.206.77.144/ettafly/booking_details/qXwWAY1578474406 0 23
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/edit/4 0 25
+https://15.206.77.144/ettafly/booking_details/nUcdwS1578472963 0 46
+https://15.206.77.144/ettafly/profile 0 23
+https://15.206.77.144/ettafly/confirm_details/WldNWjY1SWg3d3hNRFRFaEpSL2dwRDJkYlVidVBseVJ0a3dOVU5yYW1HMjFtMmNRNFZnd2hCWXhxUEpGVUVPbUZ1cmZELzJXWDhWUVo3U0xmRjdJaXBsSkc4S1BJcjcwQmFmRWNVaEttZmducjh0cHdmaTFvS2R6T2I2bDdueUs= 0 23
+https://15.206.77.144/ettafly/confirm_details/T054NjA1Sml2aklUWlpTY3R2elEyVVZmVTNaVktVZjl1U3pkRnFiS2x5NHN6QXZKRlZPVlFPOXVma1VJdGVmcnZyUXdneHBOeXVwYnRXQ08xNnlER3BOTENwenZsK0c4WFJiR2haazBpK0xwUW14OFp6bTlkWEVPazNJcDQ2MzQ= 0 23
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZitBUjNEZ3BQTG8yeVBWZEZLNTdFa3V2YjE5UmZvWU9XVnhGYzhQZVBiTFRjM3ROOFZHR0gyMkh0RUJVSWhtK0RYaEN1bmFwckJIT1NIM1pZOHlLdVp2NXVzMkJxTEFlU2d3VElyM2Qrcmg= 0 23
+https://15.206.77.144/ettafly/confirm_details/OWRBamE0OXAyRDY5NDF4M1NHNkhzOS9XMVFwY1BjaXRtVFRPRDFrU0kzSUhqNVRiSGZtd2Y4STR3TzE5QXRvdjNlOWMzdGRSanBvWnF4Ri8wTGRnU21jaVJiR3FyYjRGR3FrSmJWQjd4blAzZlIzdlVvY0tQbk5DcjJ4OVhDOWM= 0 23
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZnNselVWWW5ucTJ4dzZlZ1lJY2JOSyticGhlTXNHZXlCUmdPMm8zd0Q5bXo4Q3p4T042SUVKT2YyZUZlK1ZIUzk0a3RPaC92VXpJL0FMWC9sN25vUjJQTHFwOG5sQkdCem4xQ3RiSzg1aEI= 0 46
+https://15.206.77.144/ettafly/booking_details/sJbSGQ1578460764 0 293
+https://15.206.77.144/ettafly/terms_and_conditions 0 7
+https://15.206.77.144/ettafly/booking_details/MSJzdU1578462259 0 70
+https://api.razorpay.com/v1/checkout/public 0 23
+https://15.206.77.144/ettafly/support 0 7
+https://15.206.77.144/ettafly/confirm_details/UE5xakJvYURPS3ArMUYxMHdzMlV1cGJaQm9iR0hTSmRpYXQrcTRGSXB1Q0ZLeVVham01WHR2dU5ac2g1MmhOVzR5a3lUZzF1S2tlNnJNUFdCYjBKdERhK09yV0JSOXptbDR6eUUxTFlTQ1M5N2ljNmI4SVU3aXRpQXUycmo2RXQ= 0 23
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+400 19 21546
+301 3 714
+404 314 265550
+500 8 4011
+303 14 0
+307 4 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 38
+/wp-admin/admin-ajax.php 1 -
+/.git/index 4 -
+/ettafly/images/brands/flights/indigo.png 71 https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYU14RkcwQ3FiUysyd1MyMEVobW1KaWtYNDFiUkFGVmpLYWZGWmNKOExsdlM1SU5nRGVxcTMzbE9MaTdkdm5FK3NYY3N0UjJ4eXBJa0RVU3kvZDNEaVQ0cENMZW5VYWpwcU0vWnhUQmFXalY=
+/HNAP1 1 -
+/ettafly/public/images/admin/201907130904527481.jpg 3 https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/view
+/ettafly/images/brands/flights/jetairways.png 3 https://15.206.77.144/ettafly/home/search_flites
+/.well-known/security.txt 1 -
+/latest/dynamic/instance-identity/document 42 -
+/ettafly/booking_details/MSJzdU1578462259 1 https://15.206.77.144/ettafly/payment_conform
+/ettafly/images/brands/flights/goair.png 3 https://15.206.77.144/ettafly/home/search_flites
+/ettafly/images/bg/image-5.jpg 126 https://15.206.77.144/ettafly/
+/vpn/../vpns/ 1 -
+/hnngbb0zxmru1a7n 1 -
+/index.php 1 -
+/nmaplowercheck1578087287 1 -
+/sitemap.xml 1 -
+/.git/config 1 -
+http://169.254.169.254/latest/meta-data/ 2 -
+/ettafly/images/brands/flights/spicejet.png 2 https://15.206.77.144/ettafly/home/search_flites
+/api/v1/pods 5 -
+/2fjrn4d6xcs1p8yo 1 -
+/ajax 2 -
+/dana-na/nc/nc_gina_ver.txt 1 -
+/ettafly/cpanel 1 -
+/runningpods 1 -
+/ettafly/images/logo.png 2 https://15.206.77.144/ettafly/index
+/ettafly/images/brands/flights/airindia.png 3 https://15.206.77.144/ettafly/home/search_flites
+/ettafly/js/jquery.validate.js 9 https://15.206.77.144/ettafly/cmoon/login
+/images/logo_pan_158.gif 1 -
+/ettafly/images/brands/operator/vodafone.jpg 2 https://15.206.77.144/ettafly/profile
+//ettafly/payment_sucess/sJbSGQ1578460764 1 https://15.206.77.144/ettafly/payment_conform
+/ettafly/images/payment/visa.png 1 https://15.206.77.144/ettafly/profile
+/ettafly/public/images/admin/20190711152636739.jpg 3 https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/view
+/ettafly/public/images/admin/201907111525463961.jpg 4 https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/view
+/sdk 1 -
+/.svn/entries 1 -
+/version 1 -
+/robots.txt 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+183.82.119.64 373 2641 143523816 20200111072301
+123.201.165.55 19 122 6534692 20200107174606
+123.201.163.43 16 122 7976070 20200108144354
+106.200.155.213 8 64 5669654 20200110085442
+82.35.194.248 8 62 5016739 20200108150428
+123.201.165.23 5 35 2616804 20200111100443 20200111100440 /ettafly/home/search_flites
+128.199.70.4 4 27 1721517 20200111044928
+128.14.134.170 4 4 5320 20200111011949
+123.201.105.63 4 34 2446459 20200109150453
+157.230.120.35 3 3 3990 20200108205658
+139.162.113.204 3 3 3990 20200107045116
+5.101.0.209 2 2 2660 20200111000736
+169.197.108.6 2 2 2660 20200105011329
+138.197.214.85 2 2 2660 20200103215043
+45.227.255.233 1 1 1330 20200110101050
+128.14.133.58 1 1 1330 20200109023829
+71.6.232.9 1 1 1330 20200102073844
+159.203.201.218 1 1 1330 20200103190417
+198.108.66.192 1 1 1330 20200106125711
+169.197.108.38 1 1 1330 20200111074757
+60.191.38.77 1 1 1330 20200103013027
+92.118.160.49 1 1 1330 20200101001057
+213.32.122.82 1 1 1330 20200111080627
+128.14.209.242 1 1 1330 20200108212033
+128.14.209.250 1 1 1330 20200107145313
+193.37.255.114 1 1 1330 20200102123225
+128.14.134.134 1 1 1330 20200106060213
+80.82.68.67 1 1 1330 20200103100134
+51.158.121.128 1 1 1330 20200109015837
+71.6.232.7 1 1 1330 20200107192356
+196.52.43.106 1 1 1330 20200102224838
+92.118.161.61 1 1 1330 20200106190328
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20200101 2 2 2660 2
+20200102 3 3 3990 3
+20200103 10 40 2436004 6
+20200105 1 1 1330 1
+20200106 5 5 6650 5
+20200107 25 128 6542672 7
+20200108 372 2602 140106678 7
+20200109 11 71 4896908 5
+20200110 21 154 12286109 4
+20200111 21 135 9267970 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+0s-30s 40
+2mn-5mn 3
+30mn-1h 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 55
+/ettafly/public/vendor/font-awesome/webfonts/fa-solid-900.woff2 66 5220600 0 0
+/ettafly/public/vendor/font-awesome/webfonts/fa-regular-400.woff2 66 981552 0 0
+/ettafly/public/vendor/font-awesome/webfonts/fa-brands-400.woff2 65 4828720 0 11
+/ 35 46550 34 33
+/ettafly/booking_details/sJbSGQ1578460764 34 884059 0 0
+/ettafly/home/search_flites 25 25306136 1 2
+/ettafly/payment_sucess/nUcdwS1578472963 17 49420 0 0
+/ettafly/ 16 9193088 7 0
+/ettafly/payment_sucess/MSJzdU1578462259 13 30172 0 0
+/ettafly/payment_conform 13 424403 0 0
+/ettafly/user/add_job_posw 10 136 0 0
+/ettafly/privacy_policy 10 280519 0 0
+/ettafly/index 10 5840864 4 0
+/ettafly/booking_details/MSJzdU1578462259 6 145677 0 0
+/ettafly/payment_sucess/sJbSGQ1578460764 6 15414 0 0
+/ettafly/adminfiles/less/icons/font-awesome/fonts/fontawesome-webfont.woff2 5 333120 0 0
+/ettafly/public/images/admin/ 5 6046 0 0
+/ettafly/cmoon/cms_pages/cms_pages/view 5 156216 0 0
+/ettafly/cmoon/login 5 41707 1 0
+/ettafly/cmoon/dashboard/home 4 84531 0 0
+/ettafly/adminfiles/less/icons/linea-icons/fonts/linea-basic-10.woff 4 49040 0 0
+/ettafly/adminfiles/less/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf 4 213472 0 0
+/ettafly/confirm_details/ckllRVRDL2FqRlNyY1BSOUhXdGI1d293MFptcHpocloxQVZ5TVVIYm1rZ3laUTV6OTQ2WU43YjVIWm5JZVF0dVF5Q1dOK1pDUERaYXNQSkxvVittU1NoNm1sWG9xc1BoeXVFQ3lvUTN3Y0ZwWUV4RDlabm9aYUFNd3p1TkxyWGk= 4 252396 0 0
+/ettafly/adminfiles/less/icons/themify-icons/fonts/themify.woff 3 168324 0 0
+/ettafly/adminfiles/plugins/bower_components/dropify/dist/fonts/dropify.woff 2 6104 0 0
+/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNbE1hLzFibkZqdEtYNkdXTWlJVE05Q0ZVbzBnVVFZL1JjMTFlS29vTGZETEw5RUdNbWZUN2tLWThLdC9ESlJLb1d6a3NVb29Md0tWTUVwWnduVlJNV3Q1R3UvMVYweU55eWJlT2ovTUUzM24= 1 59429 0 0
+/ettafly/confirm_details/T054NjA1Sml2aklUWlpTY3R2elEyVVZmVTNaVktVZjl1U3pkRnFiS2x5NHN6QXZKRlZPVlFPOXVma1VJdGVmcnZyUXdneHBOeXVwYnRXQ08xNnlER3BOTENwenZsK0c4WFJiR2haazBpK0xwUW14OFp6bTlkWEVPazNJcDQ2MzQ= 1 59431 0 0
+/ettafly/adminfiles/plugins/bower_components/jquery/dist/jquery.min.map 2 255152 0 1
+/ettafly/cmoon/dashboard/index 1 21172 0 0
+/ettafly/public/vendor/bootstrap/js/bootstrap.bundle.min.js.map 2 606772 0 0
+/ettafly/profile 1 41156 1 0
+/ettafly/confirm_details/NHNsUGNmMVZMVDVWbk1uMUN2bHFSYjFWNmpkeVQzWTFSaWE1UXc4TCtudWhxYnBJVFFMYUtNclVhU1VjRGFDNE1KQ09TVE9NamZGVzZDaVJObktlM01lcCtISGZkQWJOKzYyY3NLalJEbkQxZ2p6NC9samhXYTQ2c2YzVm9FRVQ= 2 125650 0 0
+/ettafly/adminfiles/bootstrap/dist/css/bootstrap.min.css.map 1 54416 0 0
+/ettafly/confirm_details/OWRBamE0OXAyRDY5NDF4M1NHNkhzOS9XMVFwY1BjaXRtVFRPRDFrU0kzSUhqNVRiSGZtd2Y4STR3TzE5QXRvdjNlOWMzdGRSanBvWnF4Ri8wTGRnU21jaVJiR3FyYjRGR3FrSmJWQjd4blAzZlIzdlVvY0tQbk5DcjJ4OVhDOWM= 1 59461 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYU14RkcwQ3FiUysyd1MyMEVobW1KaWtYNDFiUkFGVmpLYWZGWmNKOExsdlM1SU5nRGVxcTMzbE9MaTdkdm5FK3NYY3N0UjJ4eXBJa0RVU3kvZDNEaVQ0cENMZW5VYWpwcU0vWnhUQmFXalY= 1 59429 0 0
+/ettafly/booking_details/nUcdwS1578472963 2 60728 0 0
+/ettafly/confirm_details/T054NjA1Sml2aklUWlpTY3R2elEyU2hYV1JxK0FqanF4TEc1Qk1kc05KUy9rZ1ZpV0NhMkxpeUUzaHIxcEFCUi9FVElFdUVIWTQ0WWlGRjMwMTdwM2pBajliUkFMT0RCc3Axa0MyU2tabG5KRFNhUkttV3JwK1FsbDA1dCs3Y1I= 1 59431 0 0
+/ettafly/confirm_details/UE5xakJvYURPS3ArMUYxMHdzMlV1cGJaQm9iR0hTSmRpYXQrcTRGSXB1Q0ZLeVVham01WHR2dU5ac2g1MmhOVzR5a3lUZzF1S2tlNnJNUFdCYjBKdERhK09yV0JSOXptbDR6eUUxTFlTQ1M5N2ljNmI4SVU3aXRpQXUycmo2RXQ= 1 59431 0 0
+/ettafly/cmoon/cms_pages/cms_pages/edit/5 1 21354 0 0
+/ettafly/cmoon/cms_pages/cms_pages/edit/6 1 21333 0 0
+/ettafly/public/vendor/bootstrap/css/bootstrap.min.css.map 2 1217616 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZnNselVWWW5ucTJ4dzZlZ1lJY2JOSyticGhlTXNHZXlCUmdPMm8zd0Q5bXo4Q3p4T042SUVKT2YyZUZlK1ZIUzk0a3RPaC92VXpJL0FMWC9sN25vUjJQTHFwOG5sQkdCem4xQ3RiSzg1aEI= 2 118858 0 0
+/ettafly/user_login/login 1 7 0 0
+/ettafly/cmoon/cms_pages/cms_pages/edit/4 1 20879 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYkRjZ0gvaHZVWHBWdFcrSlJmS1FMcUtMYkVscTRRQ0F2N01OeHFIblozOUNFbWtwNTZBV0NLSDNaUitVUVpSVVgxS0JJOHhjQU1QTUwxU20wQjRDV2ZERWZ3c0NTdmRKVlJ3SUoweks1RW0= 1 59429 0 0
+/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNZzFjRTBDVGhzYnBsTVdlU2VCYTlGekRIempSaEZBcnpQRmNUeEZSODRvRjdobGg5N3NtaGNCRU8vdVVVMjZTMitreEtxSWoyTGVUVlovaEtlT3hTRUFKMDNuMzJYVlRMS0duVFlXV0tWMlc= 1 62825 0 0
+/ettafly/terms_and_conditions 1 28501 0 0
+/ettafly/cmoon/dashboard/site_settings/view 2 50970 0 0
+/ettafly/confirm_details/eU9abHlnWm00TFI3Ylp0OHhrWlVDUlZWWUF5NzlTVzJGVTZBV2dVdmhYOVRXUko1MDZLQW5Ud3p4WVVvcVpiVVBlQ3YweGJRRHN2N3RoNU1MUmh4MVFPc2doa1dWWjU0V3paZW9sOFlmaTVWbUlHYU9qbDM2SlJDNVhWeklJOGo= 2 142732 0 0
+/ettafly/confirm_details/WldNWjY1SWg3d3hNRFRFaEpSL2dwRDJkYlVidVBseVJ0a3dOVU5yYW1HMjFtMmNRNFZnd2hCWXhxUEpGVUVPbUZ1cmZELzJXWDhWUVo3U0xmRjdJaXBsSkc4S1BJcjcwQmFmRWNVaEttZmducjh0cHdmaTFvS2R6T2I2bDdueUs= 1 59457 0 0
+/ettafly/aboutus 1 34142 0 0
+/ettafly/booking_details/qXwWAY1578474406 1 31203 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZitBUjNEZ3BQTG8yeVBWZEZLNTdFa3V2YjE5UmZvWU9XVnhGYzhQZVBiTFRjM3ROOFZHR0gyMkh0RUJVSWhtK0RYaEN1bmFwckJIT1NIM1pZOHlLdVp2NXVzMkJxTEFlU2d3VElyM2Qrcmg= 1 62825 0 0
+/ettafly/support 1 33984 0 0
+/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNdmJUM0tLaW9XdnlTanlLazc0UDVhUG5KWWhRNk1PTjVoclRmRGxHYXliYWw1K3h6WXcvZTR3ODYzZWIyQ3hUS0hRWSs0azlocTVoZjF6eXB3elVkWHZSSkd6NEZGQ2gzNTltVkJHTXZzUzI= 1 62825 0 0
+END_SIDER

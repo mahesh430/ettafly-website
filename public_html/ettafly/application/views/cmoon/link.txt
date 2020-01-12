@@ -1,0 +1,183 @@
+<link href="https://cdn.datatables.net/buttons/1.2.2/css/buttons.dataTables.min.css" rel="stylesheet" type="text/css" />
+<?php
+$segment1 = $this->uri->segment(1);
+$segment2 = $this->uri->segment(2);
+$segment3 = $this->uri->segment(3);
+$segment4 = $this->uri->segment(4);
+$segment5 = $this->uri->segment(5);
+?>
+<section>
+    <div class="container-fluid">
+
+        <div class="card">
+            <div class="card-header">
+                <div class="row align-items-center">
+                    <div class="col"><h3 style="text-transform: capitalize;" class="box-title">Manage <?php echo preg_replace('/_/', ' ', $this->uri->segment(3)); ?></h3></div>
+                    <div class="col-auto"><a href="<?php echo base_url(); ?>cmoon/dashboard/home" class="btn btn btn-outline-warning"><i class="fal fa-chevron-left mr-1"></i>Back</a>
+                        <!--<a href="<?php echo base_url(); ?><?php echo $segment1; ?>/<?php echo $segment2; ?>/<?php echo $segment3; ?>/add" class="btn btn-clock btn-primary" style="float:right; text-transform: capitalize;">Add <?php echo preg_replace('/_/', ' ', $this->uri->segment(3)); ?></a>-->
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body">
+
+
+                <div class="table-responsive">
+                    <table class="display table table-striped table-bordered" id="example23" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th style="width:15px">#</th>
+                                <th style="width:15px">Fiages Id</th>
+                                <th style="width:15px">Application No</th>
+                                <th style="width:15px">Name</th>
+                                <th style="width:15px">Membership-Reg No/Date</th>
+                                <th style="width:15px">Institution Name</th>
+                                <th style="width:15px">Mobile</th>
+                                <th style="width:15px">Email</th>
+                                <!--<th>Main Category</th>-->
+                                <th style="width:15px">Category</th>
+                                <th style="width:5px">Registration Date</th>
+                                <th style="width:15px">Options</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <?php
+                            $no = 1;
+                            foreach ($data as $data_view) {
+                                ?>
+                                <tr>
+                                    <td><?php echo $no; ?></td>
+                                    <td><?php echo $data_view->fiages_id; ?></td>
+                                    <td><?php echo $data_view->application_no; ?></td>
+                                    <td><?php echo $data_view->name; ?></td>
+                                    <?php if($data_view->reg_no != ''){ ?>
+                                    <td><?php echo $data_view->membership; ?>-<?php echo $data_view->reg_no; ?></td>
+                                    <?php } else { ?>
+                                    <td><?php echo $data_view->membership; ?>-<?php echo $data_view->reg_date; ?></td>
+                                    <?php } ?>
+                                    <td><?php echo $data_view->instution_name; ?></td>
+                                    <td><?php echo $data_view->mobile; ?></td>
+                                    <td><?php echo $data_view->email; ?></td>
+                                    <?php
+                                    $cat_data = $this->cms_model->get_data_by_type('id', $data_view->sub_category, 'sub_sub_category');
+                                    $sub_cat_data = $this->cms_model->get_data_by_type('id', $cat_data->sub_sub_id, 'sub_category');
+                                    $sub_sub_cat_data = $this->cms_model->get_data_by_type('id', $sub_cat_data->sub_id, 'category');
+                                    ?>
+                                    <?php if ($sub_sub_cat_data->name != '') { ?>
+                                        <td><?php echo $sub_sub_cat_data->name; ?>-<?php echo $sub_cat_data->name; ?>-<?php echo $cat_data->name; ?></td>
+                                    <?php } else { ?>
+                                    <td><?php echo $sub_cat_data->name; ?>-<?php echo $cat_data->name; ?></td>
+                                    <?php } ?>
+                                    <td><?php echo $data_view->date_of_reg; ?></td>
+
+                                    <td class="td-actions">
+                                        <a href="<?php echo base_url(); ?><?php echo $segment1; ?>/<?php echo $segment2; ?>/<?php echo $segment3; ?>/edit/<?php echo $data_view->id; ?>" class="btn btn-success"  >Edit</a>
+                                        <a href="javascript:void(0);" data-id="<?php echo $data_view->id; ?>" class="btn sa1-warning btn-danger">Delete</a>        										
+                                    </td>
+                                </tr>
+
+                                <?php
+                                $no++;
+                            }
+                            ?>
+                        </tbody>
+
+                    </table>
+
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+<?php include 'includes/footer.php'; ?>
+<script src="https://cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.flash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+<script src="https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/pdfmake.min.js"></script>
+<script src="https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/vfs_fonts.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.print.min.js"></script>
+
+<script type="text/javascript">
+    $('.sa1-warning').click(function () {
+        var id = $(this).data('id');
+
+        swal({
+            title: "Are you sure?",
+            text: "You will not be able to recover the data!",
+            type: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#DD6B55",
+            confirmButtonText: "Yes, delete it!",
+            closeOnConfirm: true
+        },
+                function () {
+                    document.location.href = '<?php echo base_url(); ?><?php echo $segment1; ?>/<?php echo $segment2; ?>/<?php echo $segment3; ?>/delete/' + id;
+
+                });
+    });
+
+</script>
+
+
+
+<?php
+$msg = $this->session->flashdata('msg');
+if ($msg == "deleted") {
+    ?>
+    <script type="text/javascript">
+        swal({
+            title: "Deleted",
+            text: "Your Data has been deleted.",
+            timer: 1500,
+            type: "warning",
+            showConfirmButton: false
+        });
+    </script>
+<?php } ?>
+<?php
+$msg = $this->session->flashdata('msg');
+if ($msg == "added") {
+    ?>
+    <script type="text/javascript">
+
+        swal({
+            title: "Good job",
+            text: "Data added Successfully.",
+            timer: 1500,
+            type: "success",
+            showConfirmButton: false
+        });
+
+    </script>
+<?php } ?>
+
+<?php
+$msg = $this->session->flashdata('msg');
+if ($msg == "updated") {
+    ?>
+    <script type="text/javascript">
+
+        swal({
+            title: "Good job",
+            text: "Data Updated Successfully.",
+            timer: 1500,
+            type: "success",
+            showConfirmButton: false
+        });
+
+    </script>
+<?php } ?>
+<script>
+    $('#example23').DataTable({
+        scrollY: false,
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ]
+    });
+</script>

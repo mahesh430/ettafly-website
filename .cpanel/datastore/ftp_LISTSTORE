@@ -1,0 +1,1 @@
+{"action":"fetch","version":"2.4","data":[{"homedir":"/home/ettafly","type":"main","user":"ettafly"},{"user":"ettafly_logs","type":"logaccess","homedir":"/etc/apache2/logs/domlogs/ettafly"}],"timeout":0,"status":1,"mode":"simple","error":0,"exit_code":0,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE"}

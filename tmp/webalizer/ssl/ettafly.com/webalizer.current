@@ -1,0 +1,748 @@
+# Webalizer V2.23-08 Incremental Data - 01/11/2020 10:04:43
+2020 1 11 10 4 43
+3599 3221 47 159 46 28 175949192 428 96 0
+9 36 821 1 11
+12 8 10640 3 12 4
+26 11 14630 8 22 9
+67 50 2451564 10 28 10
+10 6 7980 1 10 2
+13 8 10640 4 13 5
+18 13 17290 9 18 10
+156 135 6561260 10 34 12
+2871 2607 140374785 10 232 12
+92 82 4911138 14 21 13
+187 162 12311455 10 23 9
+147 139 9277810 9 15 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+34 25 33250 33
+42 25 33250 40
+3 2 2660 3
+1 1 1330 1
+210 198 13925780 8
+342 306 15926291 36
+237 212 11898670 19
+330 305 14210173 42
+897 811 45137667 67
+614 567 28734916 42
+114 105 7480352 7
+60 56 4171126 6
+190 163 7396974 37
+103 88 4950425 33
+144 123 8000000 8
+114 96 7482408 7
+2 1 1330 2
+131 117 6512108 16
+7 7 34522 1
+3 3 3990 3
+3 2 1330 2
+15 6 7980 13
+3 2 2660 2
+0 0 0 0
+0
+0
+0
+3221
+0
+0
+0
+0
+0
+0
+0
+3
+0
+14
+2
+0
+4
+19
+0
+0
+5
+323
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+# -urls- 
+/ettafly/adminfiles/plugins/bower_components/jquery/dist/jquery.min.js
+0 4 0 337536 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYkRjZ0gvaHZVWHBWdFcrSlJmS1FMcUtMYkVscTRRQ0F2N01OeHFIblozOUNFbWtwNTZBV0NLSDNaUitVUVpSVVgxS0JJOHhjQU1QTUwxU20wQjRDV2ZERWZ3c0NTdmRKVlJ3SUoweks1RW0
+0 1 0 59429 0 0
+/ettafly/cmoon/cms_pages/cms_pages/view
+0 5 0 156216 0 0
+/ettafly/public/images/admin/20200108125237491_ettaflylogo.png
+0 19 0 401132 0 0
+/ettafly/public/images/team/leader-2.jpg
+0 1 0 16476 0 0
+/ettafly/public/images/brands/airlines/WY@2x.png
+0 1 0 1998 0 0
+/ettafly/cmoon/cms_pages/cms_pages/edit/5
+0 1 0 21354 0 0
+/ettafly/public/images/brands/airlines/EY@2x.png
+0 1 0 2105 0 0
+/ettafly/public/images/brands/airlines/QR@2x.png
+0 1 0 1208 0 0
+/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNdmJUM0tLaW9XdnlTanlLazc0UDVhUG5KWWhRNk1PTjVoclRmRGxHYXliYWw1K3h6WXcvZTR3ODYzZWIyQ3hUS0hRWSs0azlocTVoZjF6eXB3elVkWHZSSkd6NEZGQ2gzNTltVkJHTXZzUzI
+0 1 0 62825 0 0
+/ettafly/public/images/banner1.jpg
+0 26 0 11408202 0 0
+/ettafly/adminfiles/js/custom.min.js
+0 5 0 22455 0 0
+/ettafly/adminfiles/plugins/bower_components/gallery/js/jquery.isotope.min.js
+0 4 0 64180 0 0
+/ettafly/public/images/brands/airlines/KA@2x.png
+0 13 0 40040 0 0
+/ettafly/public/images/brands/airlines/TG@2x.png
+0 12 0 33012 0 0
+/ettafly/adminfiles/plugins/bower_components/jsgrid/db.js
+0 4 0 101688 0 0
+/ettafly/public/images/team/leader-3.jpg
+0 1 0 16476 0 0
+/ettafly/adminfiles/plugins/bower_components/jsgrid/dist/jsgrid.min.js
+0 4 0 143812 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/contents.css
+0 3 0 9282 0 0
+/ettafly/public/images/admin/20200107184257502_whatsapp_image_2019_12_18_at_17_44_52.jpeg
+0 69 0 2167359 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/ckeditor.js
+0 4 0 2780288 0 0
+/ettafly/adminfiles/plugins/bower_components/datatables/jquery.dataTables.min.js
+0 4 0 578800 0 0
+/ettafly/public/images/team/leader.jpg
+0 1 0 16472 0 0
+/ettafly/public/vendor/daterangepicker/moment.min.js
+0 67 0 3459746 0 0
+/ettafly/public/images/admin/
+0 5 0 6046 0 0
+/ettafly/public/images/brands/airlines/MH@2x.png
+0 12 0 49944 0 0
+/ettafly/adminfiles/js/dashboard1.js
+0 4 0 7380 0 0
+/ettafly/public/images/slider/small-banner-15-600x320.jpg
+0 26 0 2005224 0 0
+/ettafly/adminfiles/plugins/bower_components/datatables/jquery.dataTables.min.css
+0 11 0 162360 0 0
+/ettafly/adminfiles/plugins/images/login-register.jpg
+0 3 0 1646883 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/plugins/copyformatting/styles/copyformatting.css
+0 6 0 9078 0 0
+/ettafly/public/images/slider/small-banner-14-600x320.jpg
+0 26 0 1864590 0 0
+/ettafly/public/vendor/font-awesome/webfonts/fa-solid-900.woff2
+0 66 0 5220600 0 0
+/ettafly/adminfiles/plugins/bower_components/bootstrap-datepicker/bootstrap-datepicker.min.css
+0 11 0 171853 0 0
+/ettafly/confirm_details/OWRBamE0OXAyRDY5NDF4M1NHNkhzOS9XMVFwY1BjaXRtVFRPRDFrU0kzSUhqNVRiSGZtd2Y4STR3TzE5QXRvdjNlOWMzdGRSanBvWnF4Ri8wTGRnU21jaVJiR3FyYjRGR3FrSmJWQjd4blAzZlIzdlVvY0tQbk5DcjJ4OVhDOWM
+0 1 0 59461 0 0
+/ettafly/confirm_details/T054NjA1Sml2aklUWlpTY3R2elEyVVZmVTNaVktVZjl1U3pkRnFiS2x5NHN6QXZKRlZPVlFPOXVma1VJdGVmcnZyUXdneHBOeXVwYnRXQ08xNnlER3BOTENwenZsK0c4WFJiR2haazBpK0xwUW14OFp6bTlkWEVPazNJcDQ2MzQ
+0 1 0 59431 0 0
+/ettafly/adminfiles/plugins/bower_components/sweetalert/sweetalert.css
+0 11 0 261954 0 0
+/ettafly/public/images/slider/small-banner-13-600x320.jpg
+0 26 0 1901510 0 0
+/ettafly/booking_details/MSJzdU1578462259
+0 6 0 145677 0 0
+/ettafly/booking_details/qXwWAY1578474406
+0 1 0 31203 0 0
+/ettafly/adminfiles/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css
+0 11 0 8690 0 0
+/ettafly/public/images/google-play-store.png
+0 26 903496197538328878 237900 0 0
+/ettafly/booking_details/sJbSGQ1578460764
+0 34 0 884059 0 0
+/ettafly/cmoon/cms_pages/cms_pages/edit/4
+0 1 7454142578530023026 20879 0 0
+/ettafly/public/images/brands/airlines/UL@2x.png
+0 12 7598544957966805108 16836 0 0
+/ettafly/adminfiles/plugins/bower_components/counterup/jquery.counterup.min.js
+0 4 26486940018750257 17036 0 0
+/ettafly/public/css/stylesheet.css
+0 122 3329058636855129649 8001126 0 0
+/ettafly/adminfiles/plugins/bower_components/morrisjs/morris.css
+0 11 7146496162700354932 5863 0 0
+/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNZzFjRTBDVGhzYnBsTVdlU2VCYTlGekRIempSaEZBcnpQRmNUeEZSODRvRjdobGg5N3NtaGNCRU8vdVVVMjZTMitreEtxSWoyTGVUVlovaEtlT3hTRUFKMDNuMzJYVlRMS0duVFlXV0tWMlc
+0 1 3342918187957379439 62825 0 0
+/ettafly/public/vendor/owl.carousel/owl.carousel.min.js
+0 66 0 2926572 0 0
+/ettafly/adminfiles/plugins/bower_components/styleswitcher/jQuery.style.switcher.js
+0 5 0 7320 0 0
+/ettafly/public/images/brands/airlines/TK@2x.png
+0 1 0 927 0 0
+/ettafly/adminfiles/bootstrap/dist/css/bootstrap.min.css
+0 13 0 1576445 0 0
+/ettafly/user_login/login
+0 1 0 7 0 0
+/ettafly/public/vendor/jquery-ui/jquery-ui.min.js
+0 64 0 16234816 0 0
+/ettafly/public/images/admin/20190725165447219_ettafly_loga.png
+0 4 0 22128 0 0
+/ettafly/confirm_details/UE5xakJvYURPS3ArMUYxMHdzMlV1cGJaQm9iR0hTSmRpYXQrcTRGSXB1Q0ZLeVVham01WHR2dU5ac2g1MmhOVzR5a3lUZzF1S2tlNnJNUFdCYjBKdERhK09yV0JSOXptbDR6eUUxTFlTQ1M5N2ljNmI4SVU3aXRpQXUycmo2RXQ
+0 1 0 59431 0 0
+/ettafly/adminfiles/plugins/bower_components/fancybox/ekko-lightbox.min.js
+0 4 0 50268 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/plugins/wsc/skins/moono-lisa/wsc.css
+0 3 0 3918 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/plugins/scayt/dialogs/dialog.css
+0 3 0 1257 0 0
+/ettafly/adminfiles/plugins/bower_components/bootstrap-datepicker/bootstrap-datepicker.min.js
+0 4 0 117372 0 0
+/ettafly/booking_details/nUcdwS1578472963
+0 2 0 60728 0 0
+/ettafly/cmoon/login
+0 5 0 41707 1 0
+/ettafly/profile
+0 1 0 41156 1 0
+/ettafly/public/images/payment/paypal.png
+0 65 0 80080 0 0
+/ettafly/public/images/brands/airlines/KE@2x.png
+0 13 0 43498 0 0
+/ettafly/aboutus
+0 1 0 34142 0 0
+/ettafly/public/images/admin/20190725165446199_ettafly_loga.png
+0 73 0 403836 0 0
+/ettafly/public/vendor/font-awesome/css/all.min.css
+0 122 0 6538224 0 0
+/ettafly/adminfiles/js/waves.js
+0 5 3328785746743001088 21185 0 0
+/ettafly/confirm_details/NHNsUGNmMVZMVDVWbk1uMUN2bHFSYjFWNmpkeVQzWTFSaWE1UXc4TCtudWhxYnBJVFFMYUtNclVhU1VjRGFDNE1KQ09TVE9NamZGVzZDaVJObktlM01lcCtISGZkQWJOKzYyY3NLalJEbkQxZ2p6NC9samhXYTQ2c2YzVm9FRVQ
+0 2 7166122441078434915 125650 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/styles.js
+0 3 1836016430 16749 0 0
+/ettafly/public/images/app-store.png
+0 26 26482 140868 0 0
+/ettafly/adminfiles/plugins/bower_components/jquery/dist/jquery.min.map
+0 2 24079 255152 0 0
+/ettafly/user/add_job_posw
+0 10 8299628549110653283 136 0 0
+/ettafly/payment_sucess/MSJzdU1578462259
+0 13 1852386928 30172 0 0
+/ettafly/terms_and_conditions
+0 1 8286623314361712640 28501 0 0
+/ettafly/public/images/brands/airlines/SQ@2x.png
+0 13 3474304342028021353 13130 0 0
+/ettafly/payment_sucess/sJbSGQ1578460764
+0 6 7579123201900164450 15414 0 0
+/ettafly/public/images/payment/discover.png
+0 65 103 114335 0 0
+/ettafly/adminfiles/js/jquery.slimscroll.js
+0 5 28265 45490 0 0
+/ettafly/adminfiles/plugins/bower_components/sweetalert/jquery.sweet-alert.custom.js
+0 71 0 197664 0 0
+/ettafly/public/images/brands/airlines/LH@2x.png
+0 12 0 9288 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/skins/moono-lisa/editor.css
+0 3 0 140763 0 0
+/ettafly/payment_sucess/nUcdwS1578472963
+0 17 0 49420 0 0
+/ettafly/confirm_details/ckllRVRDL2FqRlNyY1BSOUhXdGI1d293MFptcHpocloxQVZ5TVVIYm1rZ3laUTV6OTQ2WU43YjVIWm5JZVF0dVF5Q1dOK1pDUERaYXNQSkxvVittU1NoNm1sWG9xc1BoeXVFQ3lvUTN3Y0ZwWUV4RDlabm9aYUFNd3p1TkxyWGk
+0 4 0 252396 0 0
+/ettafly/public/vendor/owl.carousel/assets/owl.carousel.min.css
+0 122 0 409432 0 0
+/ettafly/adminfiles/less/icons/linea-icons/fonts/linea-basic-10.woff
+0 4 0 49040 0 0
+/ettafly/public/images/team/leader-4.jpg
+0 1 0 16476 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYU14RkcwQ3FiUysyd1MyMEVobW1KaWtYNDFiUkFGVmpLYWZGWmNKOExsdlM1SU5nRGVxcTMzbE9MaTdkdm5FK3NYY3N0UjJ4eXBJa0RVU3kvZDNEaVQ0cENMZW5VYWpwcU0vWnhUQmFXalY
+0 1 0 59429 0 0
+/ettafly/adminfiles/plugins/bower_components/dropify/dist/js/dropify.min.js
+0 4 0 39772 0 0
+/ettafly/adminfiles/plugins/bower_components/jsgrid/dist/jsgrid-theme.min.css
+0 11 0 364155 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZnNselVWWW5ucTJ4dzZlZ1lJY2JOSyticGhlTXNHZXlCUmdPMm8zd0Q5bXo4Q3p4T042SUVKT2YyZUZlK1ZIUzk0a3RPaC92VXpJL0FMWC9sN25vUjJQTHFwOG5sQkdCem4xQ3RiSzg1aEI
+0 2 0 118858 0 0
+/ettafly/adminfiles/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js
+0 5 0 9435 0 0
+/ettafly/adminfiles/css/spinners.css
+0 5 0 5500 0 0
+/ettafly/public/vendor/daterangepicker/daterangepicker.css
+0 122 0 1113616 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/lang/en.js
+0 3 0 57105 0 0
+/ettafly/public/images/brands/airlines/EK@2x.png
+0 13 0 41769 0 0
+/ettafly/adminfiles/js/jsgrid-init.js
+0 4 0 31892 0 0
+/ettafly/adminfiles/less/icons/themify-icons/fonts/themify.woff
+0 3 0 168324 0 0
+/ettafly/public/vendor/font-awesome/webfonts/fa-regular-400.woff2
+0 66 0 981552 0 0
+/ettafly/cmoon/dashboard/index
+0 1 0 21172 0 0
+/ettafly/
+0 16 0 9193088 5 5
+/ettafly/cmoon/dashboard/home
+0 4 0 84531 0 0
+/ettafly/confirm_details/eU9abHlnWm00TFI3Ylp0OHhrWlVDUlZWWUF5NzlTVzJGVTZBV2dVdmhYOVRXUko1MDZLQW5Ud3p4WVVvcVpiVVBlQ3YweGJRRHN2N3RoNU1MUmh4MVFPc2doa1dWWjU0V3paZW9sOFlmaTVWbUlHYU9qbDM2SlJDNVhWeklJOGo
+0 2 0 142732 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/skins/moono-lisa/icons.png
+0 2 0 24842 0 0
+/ettafly/public/images/brands/airlines/CX@2x.png
+0 12 0 31872 0 0
+/ettafly/public/images/app-mobile-2.png
+0 26 0 1397266 0 0
+/ettafly/adminfiles/plugins/bower_components/dropify/dist/css/dropify.min.css
+0 11 0 108537 0 0
+/ettafly/public/vendor/bootstrap/css/bootstrap.min.css
+0 122 0 18688204 0 0
+/ettafly/cmoon/dashboard/site_settings/view
+0 2 0 50970 0 0
+/ettafly/cmoon/cms_pages/cms_pages/edit/6
+0 1 0 21333 0 0
+/ettafly/adminfiles/bootstrap/dist/js/bootstrap.min.js
+0 5 0 184370 0 0
+/ettafly/public/images/payment/american.png
+0 65 0 168675 0 0
+/ettafly/adminfiles/plugins/bower_components/raphael/raphael-min.js
+0 4 0 370644 0 0
+/ettafly/public/vendor/owl.carousel/assets/owl.theme.default.min.css
+0 122 0 248026 0 0
+/ettafly/adminfiles/css/animate.css
+0 13 0 733915 0 0
+/ettafly/public/images/brands/airlines/RA@2x.png
+0 12 0 52500 0 0
+/
+0 117 0 152950 71 21
+/ettafly/public/images/payment/visa.png
+0 65 0 98540 0 0
+/ettafly/adminfiles/less/icons/font-awesome/fonts/fontawesome-webfont.woff2
+0 5 0 333120 0 0
+/ettafly/adminfiles/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js
+0 5 0 216255 0 0
+/ettafly/adminfiles/plugins/bower_components/gallery/js/animated-masonry-gallery.js
+0 4 0 7580 0 0
+/ettafly/public/vendor/jquery/jquery.min.js
+0 66 0 5737182 0 0
+/ettafly/adminfiles/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js
+0 5 0 38410 0 0
+/ettafly/adminfiles/plugins/bower_components/sweetalert/sweetalert.min.js
+0 70 0 1181880 0 0
+/ettafly/adminfiles/plugins/bower_components/waypoints/lib/jquery.waypoints.js
+0 4 0 72440 0 0
+/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNbE1hLzFibkZqdEtYNkdXTWlJVE05Q0ZVbzBnVVFZL1JjMTFlS29vTGZETEw5RUdNbWZUN2tLWThLdC9ESlJLb1d6a3NVb29Md0tWTUVwWnduVlJNV3Q1R3UvMVYweU55eWJlT2ovTUUzM24
+0 1 0 59429 0 0
+/ettafly/adminfiles/css/style.css
+0 17 0 4288726 0 0
+/ettafly/index
+0 10 0 5840864 4 2
+/ettafly/support
+0 1 0 33984 0 0
+/ettafly/public/vendor/jquery-ui/jquery-ui.css
+0 122 0 4553772 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/plugins/scayt/skins/moono-lisa/scayt.css
+0 3 0 1143 0 0
+/ettafly/payment_conform
+0 13 0 424403 0 0
+/ettafly/public/images/brands/airlines/JL@2x.png
+0 13 0 15171 0 0
+/ettafly/home/search_flites
+0 25 0 25306136 1 0
+/ettafly/public/images/brands/airlines/AI@2x.png
+0 9 0 34398 0 0
+/ettafly/adminfiles/less/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf
+0 4 0 213472 0 0
+/ettafly/adminfiles/plugins/bower_components/dropify/dist/fonts/dropify.woff
+0 2 0 6104 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/config.js
+0 3 0 1014 0 0
+/ettafly/public/vendor/bootstrap-spinner/bootstrap-spinner.js
+0 66 0 304590 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/plugins/tableselection/styles/tableselection.css
+0 6 0 4842 0 0
+/ettafly/public/vendor/bootstrap/css/bootstrap.min.css.map
+0 2 0 1217616 0 0
+/ettafly/adminfiles/css/colors/default.css
+0 17 0 67286 0 0
+/ettafly/privacy_policy
+0 10 0 280519 0 0
+/ettafly/confirm_details/T054NjA1Sml2aklUWlpTY3R2elEyU2hYV1JxK0FqanF4TEc1Qk1kc05KUy9rZ1ZpV0NhMkxpeUUzaHIxcEFCUi9FVElFdUVIWTQ0WWlGRjMwMTdwM2pBajliUkFMT0RCc3Axa0MyU2tabG5KRFNhUkttV3JwK1FsbDA1dCs3Y1I
+0 1 0 59431 0 0
+/ettafly/public/vendor/font-awesome/webfonts/fa-brands-400.woff2
+0 65 0 4828720 0 0
+/ettafly/adminfiles/bootstrap/dist/css/bootstrap.min.css.map
+0 1 0 54416 0 0
+/ettafly/public/images/brands/airlines/MI@2x.png
+0 12 0 23616 0 0
+/ettafly/confirm_details/WldNWjY1SWg3d3hNRFRFaEpSL2dwRDJkYlVidVBseVJ0a3dOVU5yYW1HMjFtMmNRNFZnd2hCWXhxUEpGVUVPbUZ1cmZELzJXWDhWUVo3U0xmRjdJaXBsSkc4S1BJcjcwQmFmRWNVaEttZmducjh0cHdmaTFvS2R6T2I2bDdueUs
+0 1 0 59457 0 0
+/ettafly/adminfiles/plugins/bower_components/toast-master/css/jquery.toast.css
+0 11 0 54307 0 0
+/ettafly/public/vendor/bootstrap/js/bootstrap.bundle.min.js
+0 66 0 5036328 0 0
+/ettafly/adminfiles/plugins/bower_components/editor_ck/plugins/icons.png
+0 1 0 12421 0 0
+/ettafly/public/vendor/bootstrap/js/bootstrap.bundle.min.js.map
+0 2 0 606772 0 0
+/ettafly/public/js/theme.js
+0 69 0 535716 0 0
+/ettafly/public/images/payment/mastercard.png
+0 65 0 86320 0 0
+/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZitBUjNEZ3BQTG8yeVBWZEZLNTdFa3V2YjE5UmZvWU9XVnhGYzhQZVBiTFRjM3ROOFZHR0gyMkh0RUJVSWhtK0RYaEN1bmFwckJIT1NIM1pZOHlLdVp2NXVzMkJxTEFlU2d3VElyM2Qrcmg
+0 1 0 62825 0 0
+/ettafly/public/vendor/daterangepicker/daterangepicker.js
+0 67 0 4275806 0 0
+/ettafly/adminfiles/plugins/bower_components/jsgrid/dist/jsgrid.min.css
+0 11 0 19734 0 0
+# End Of Table - urls
+# -sites- (monthly)
+124.156.241.17
+0 1 1 1330 1 1578633143
+/
+185.176.27.114
+0 3 3 3990 3 1578528673
+/
+92.118.160.49.netsystemsresearch.com
+0 1 1 1330 1 1577837457
+/
+157.230.120.35
+0 5 3 3990 3 1578517018
+/
+cpc90598-leic20-2-0-cust247.8-1.cable.virginm.net
+0 78 62 5034819 1 1578495868
+/ettafly/home/search_flites
+survey.internet-census.org
+0 12 11 14630 11 1578728877
+/
+scan-10.shadowserver.org
+0 1 1 1330 1 1578531634
+/
+ec2-44-225-84-206.us-west-2.compute.amazonaws.com
+0 40 24 31920 8 1578663721
+-
+scan-14.shadowserver.org
+0 2 2 2660 2 1578703887
+/
+55-165-201-123.static.youbroadband.in
+0 135 122 6543970 1 1578419166
+/ettafly/cmoon/dashboard/home
+193.37.255.114
+0 10 1 1330 1 1577968354
+/
+60.191.38.77
+0 1 1 1330 1 1578015027
+/
+ec2-54-212-125-91.us-west-2.compute.amazonaws.com
+0 1 1 0 1 1578603097
+/
+5.101.0.209
+0 4 2 2660 3 1578701256
+/
+128.199.70.4
+0 28 27 1722647 1 1578718163
+/ettafly/home/search_flites
+160-72-158-51.rev.cloud.scaleway.com
+0 5 0 0 5 1578484217
+-
+128-121-158-51.rev.cloud.scaleway.com
+0 1 1 1330 1 1578535117
+/
+scan-07.shadowserver.org
+0 1 1 1330 1 1578010394
+/
+min-4d570ce22-5-prod.binaryedge.ninja
+0 1 0 0 0 0
+-
+broadband.actcorp.in
+0 2872 2639 143749843 8 1578727380
+/ettafly/
+108.156.234.35.bc.googleusercontent.com
+0 1 1 0 1 1578574991
+/
+snowden.tor-exit.calyxinstitute.org
+0 1 0 0 1 1577931054
+-
+23-165-201-123.static.youbroadband.in
+0 36 35 2617934 1 1578737083
+/ettafly/home/search_flites
+63-105-201-123.static.youbroadband.in
+0 35 34 2447589 1 1578582292
+/ettafly/
+worker-12.sfj.corp.censys.io
+0 1 1 1330 1 1578315431
+/
+106.200.155.213
+0 75 64 5682100 1 1578646482
+/ettafly/home/search_flites
+ec2-44-224-22-196.us-west-2.compute.amazonaws.com
+0 65 39 51870 13 1578704775
+-
+196.52.43.106.netsystemsresearch.com
+0 1 1 1330 1 1578005318
+/
+scan-68.security.ipip.net
+0 3 3 3990 3 1578372676
+/
+178.128.196.128
+0 2 0 0 0 0
+-
+138.197.214.85
+0 13 5 6650 1 1578088249
+-
+implant-scanner-victims-will-be-notified.threatsinkhole.com
+0 2 0 0 2 1578668247
+-
+min-4d570ce22-26-prod.binaryedge.ninja
+0 1 0 0 1 1578592489
+-
+hostby.web4net.org
+0 3 1 1330 1 1578651050
+/
+45.148.121.4
+0 1 1 1330 1 1578592985
+/
+scan-02.shadowserver.org
+0 1 1 1330 1 1578358455
+/
+scan035.intrinsec.com
+0 1 1 1330 1 1578729987
+/
+scan-08.shadowserver.org
+0 3 3 3990 3 1578461705
+/
+43-163-201-123.static.youbroadband.in
+0 142 122 7998670 1 1578494625
+/ettafly/home/search_flites
+zg-0911a-7.stretchoid.com
+0 1 1 1330 1 1578078257
+/
+92.118.161.61.netsystemsresearch.com
+0 1 1 1330 1 1578337408
+/
+scan-11.shadowserver.org
+0 1 1 1330 1 1578183616
+/
+71.6.232.9
+0 1 1 1330 1 1577950724
+/
+li440-30.members.linode.com
+0 1 0 0 0 0
+-
+80.82.68.67
+0 3 1 1330 1 1578045694
+/
+71.6.232.7
+0 1 1 1330 1 1578425036
+/
+chomsky.torservers.net
+0 1 0 0 1 1578496661
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+survey.internet-census.org
+0 2 2 2660 2 1578728877
+/
+scan-14.shadowserver.org
+0 1 1 1330 1 1578703887
+/
+5.101.0.209
+0 1 1 1330 1 1578701256
+/
+128.199.70.4
+0 28 27 1722647 1 1578718163
+/ettafly/home/search_flites
+min-4d570ce22-5-prod.binaryedge.ninja
+0 1 0 0 0 0
+-
+broadband.actcorp.in
+0 72 69 4926589 2 1578727380
+/ettafly/
+23-165-201-123.static.youbroadband.in
+0 36 35 2617934 1 1578737083
+/ettafly/home/search_flites
+ec2-44-224-22-196.us-west-2.compute.amazonaws.com
+0 5 3 3990 1 1578704775
+-
+scan035.intrinsec.com
+0 1 1 1330 1 1578729987
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://15.206.77.144/ettafly/confirm_details/T054NjA1Sml2aklUWlpTY3R2elEyVVZmVTNaVktVZjl1U3pkRnFiS2x5NHN6QXZKRlZPVlFPOXVma1VJdGVmcnZyUXdneHBOeXVwYnRXQ08xNnlER3BOTENwenZsK0c4WFJiR2haazBpK0xwUW14OFp6bTlkWEVPazNJcDQ2MzQ
+0 24
+https://15.206.77.144/ettafly/payment_conform
+0 229
+https://15.206.77.144/ettafly/booking_details/sJbSGQ1578460764
+0 293
+https://15.206.77.144/ettafly/booking_details/qXwWAY1578474406
+0 23
+https://15.206.77.144/ettafly/payment_sucess/nUcdwS1578472963
+0 1
+https://15.206.77.144/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNbE1hLzFibkZqdEtYNkdXTWlJVE05Q0ZVbzBnVVFZL1JjMTFlS29vTGZETEw5RUdNbWZUN2tLWThLdC9ESlJLb1d6a3NVb29Md0tWTUVwWnduVlJNV3Q1R3UvMVYweU55eWJlT2ovTUUzM24
+0 24
+https://15.206.77.144/ettafly/booking_details/MSJzdU1578462259
+0 70
+https://15.206.77.144/ettafly/profile
+0 26
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYU14RkcwQ3FiUysyd1MyMEVobW1KaWtYNDFiUkFGVmpLYWZGWmNKOExsdlM1SU5nRGVxcTMzbE9MaTdkdm5FK3NYY3N0UjJ4eXBJa0RVU3kvZDNEaVQ0cENMZW5VYWpwcU0vWnhUQmFXalY
+0 11
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZnNselVWWW5ucTJ4dzZlZ1lJY2JOSyticGhlTXNHZXlCUmdPMm8zd0Q5bXo4Q3p4T042SUVKT2YyZUZlK1ZIUzk0a3RPaC92VXpJL0FMWC9sN25vUjJQTHFwOG5sQkdCem4xQ3RiSzg1aEI
+0 49
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/edit/5
+0 16
+https://15.206.77.144/ettafly/adminfiles/css/style.css
+0 16
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpZitBUjNEZ3BQTG8yeVBWZEZLNTdFa3V2YjE5UmZvWU9XVnhGYzhQZVBiTFRjM3ROOFZHR0gyMkh0RUJVSWhtK0RYaEN1bmFwckJIT1NIM1pZOHlLdVp2NXVzMkJxTEFlU2d3VElyM2Qrcmg
+0 25
+https://15.206.77.144/ettafly/user/add_job_posw
+0 1
+https://15.206.77.144/ettafly/payment_sucess/MSJzdU1578462259
+0 1
+https://15.206.77.144/ettafly/booking_details/nUcdwS1578472963
+0 46
+https://15.206.77.144/ettafly/
+0 619
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/view
+0 70
+https://15.206.77.144/ettafly/confirm_details/WldNWjY1SWg3d3hNRFRFaEpSL2dwRDJkYlVidVBseVJ0a3dOVU5yYW1HMjFtMmNRNFZnd2hCWXhxUEpGVUVPbUZ1cmZELzJXWDhWUVo3U0xmRjdJaXBsSkc4S1BJcjcwQmFmRWNVaEttZmducjh0cHdmaTFvS2R6T2I2bDdueUs
+0 24
+- (Direct Request)
+0 311
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/edit/6
+0 28
+https://15.206.77.144/ettafly/cmoon/dashboard/index
+0 42
+https://15.206.77.144/ettafly/adminfiles/plugins/bower_components/editor_ck/skins/moono-lisa/editor.css
+0 2
+https://15.206.77.144/ettafly/cmoon/dashboard/site_settings/view
+0 30
+https://15.206.77.144/ettafly/adminfiles/plugins/bower_components/dropify/dist/css/dropify.min.css
+0 2
+https://15.206.77.144/ettafly/terms_and_conditions
+0 7
+https://15.206.77.144/ettafly/confirm_details/OWRBamE0OXAyRDY5NDF4M1NHNkhzOS9XMVFwY1BjaXRtVFRPRDFrU0kzSUhqNVRiSGZtd2Y4STR3TzE5QXRvdjNlOWMzdGRSanBvWnF4Ri8wTGRnU21jaVJiR3FyYjRGR3FrSmJWQjd4blAzZlIzdlVvY0tQbk5DcjJ4OVhDOWM
+0 24
+https://15.206.77.144/ettafly/home/search_flites
+0 622
+https://15.206.77.144/ettafly/confirm_details/ckllRVRDL2FqRlNyY1BSOUhXdGI1d293MFptcHpocloxQVZ5TVVIYm1rZ3laUTV6OTQ2WU43YjVIWm5JZVF0dVF5Q1dOK1pDUERaYXNQSkxvVittU1NoNm1sWG9xc1BoeXVFQ3lvUTN3Y0ZwWUV4RDlabm9aYUFNd3p1TkxyWGk
+0 40
+https://15.206.77.144/ettafly/index
+0 278
+https://15.206.77.144/ettafly/confirm_details/azNraDEzdUp3ZUZsK3RzZnkwZlBpYkRjZ0gvaHZVWHBWdFcrSlJmS1FMcUtMYkVscTRRQ0F2N01OeHFIblozOUNFbWtwNTZBV0NLSDNaUitVUVpSVVgxS0JJOHhjQU1QTUwxU20wQjRDV2ZERWZ3c0NTdmRKVlJ3SUoweks1RW0
+0 31
+https://15.206.77.144//ettafly/payment_sucess/sJbSGQ1578460764
+0 1
+https://15.206.77.144/ettafly/support
+0 7
+https://15.206.77.144/ettafly/privacy_policy
+0 98
+https://15.206.77.144/
+0 2
+https://15.206.77.144/ettafly/cpanel
+0 1
+https://15.206.77.144/ettafly/confirm_details/YnFlOEJ4Y3hMaWloME9hcVZsRjZNdmJUM0tLaW9XdnlTanlLazc0UDVhUG5KWWhRNk1PTjVoclRmRGxHYXliYWw1K3h6WXcvZTR3ODYzZWIyQ3hUS0hRWSs0azlocTVoZjF6eXB3elVkWHZSSkd6NEZGQ2gzNTltVkJHTXZzUzI
+0 26
+https://15.206.77.144/ettafly/cmoon/cms_pages/cms_pages/edit/4
+0 25
+https://15.206.77.144/ettafly/aboutus
+0 12
+https://15.206.77.144/ettafly/cmoon/login
+0 69
+https://api.razorpay.com/v1/checkout/public
+0 23
+https://15.206.77.144/ettafly/confirm_details/UE5xakJvYURPS3ArMUYxMHdzMlV1cGJaQm9iR0hTSmRpYXQrcTRGSXB1Q0ZLeVVham01WHR2dU5ac2g1MmhOVzR5a3lUZzF1S2tlNnJNUFdCYjBKdERhK09yV0JSOXptbDR6eUUxTFlTQ1M5N2ljNmI4SVU3aXRpQXUycmo2RXQ
+0 24
+https://15.206.77.144/ettafly/public/vendor/font-awesome/css/all.min.css
+0 197
+https://15.206.77.144/ettafly/confirm_details/NHNsUGNmMVZMVDVWbk1uMUN2bHFSYjFWNmpkeVQzWTFSaWE1UXc4TCtudWhxYnBJVFFMYUtNclVhU1VjRGFDNE1KQ09TVE9NamZGVzZDaVJObktlM01lcCtISGZkQWJOKzYyY3NLalJEbkQxZ2p6NC9samhXYTQ2c2YzVm9FRVQ
+0 34
+https://15.206.77.144/ettafly/cmoon/dashboard/home
+0 86
+https://15.206.77.144/ettafly/confirm_details/eU9abHlnWm00TFI3Ylp0OHhrWlVDUlZWWUF5NzlTVzJGVTZBV2dVdmhYOVRXUko1MDZLQW5Ud3p4WVVvcVpiVVBlQ3YweGJRRHN2N3RoNU1MUmh4MVFPc2doa1dWWjU0V3paZW9sOFlmaTVWbUlHYU9qbDM2SlJDNVhWeklJOGo
+0 9
+# End Of Table - referrers
+# -agents- 
+HTTP Banner Detection (https://security.ipip.net)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 2
+AWS Security Scanner
+0 105
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3602.2 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://wws.baidu.com/search/spider.html)
+0 2
+Mozilla/5.0 (Linux; Android 9; CPH1823) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.62 Mobile Safari/537.36
+0 103
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 3148
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2
+0 7
+libwww-perl/6.13
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 2
+python-requests/2.22.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+curl/7.58.0
+0 5
+Mozilla/5.0 zgrab/0.x
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 9; H8266) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 78
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+0 3
+curl/7.61.1
+0 1
+kubectl/v1.12.0 (linux/amd64) kubernetes/0ed3388
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 72
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

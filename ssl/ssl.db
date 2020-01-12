@@ -1,0 +1,80 @@
+--- 
+files: 
+  certificate: 
+    api_ettafly_com_b0975_f2ca5_1608819344_2e41fc29cdc3643bbd71579f3e100bb0: 
+      created: '1577283344'
+      domains: 
+        - api.ettafly.com
+        - www.api.ettafly.com
+      friendly_name: Cert for “api.ettafly.com”
+      id: api_ettafly_com_b0975_f2ca5_1608819344_2e41fc29cdc3643bbd71579f3e100bb0
+      is_self_signed: 1
+      issuer.commonName: api.ettafly.com
+      issuer.organizationName: ~
+      modulus: b0975aa4e84ce6e40d2210838be59b32414a1bd8fd2301ccc2a489645bc57cc730b72c59af5450a30cc1def88f9e9bd52c158f59c76d7ccab7b029140e8e2adf9b5912eae922c5a03554a767bbe2b2139803f54e79c8b8189a0339b48f960e8ca1bf8d9f71d4d833081e6560ce9f87f9200d35e6601ec3d3f56c8fe6d7afdcc0d9f01e0528a63f121eb2ffe75a2fac9568463eee51db09c3fddb6f6e5aa4c5a442fb1cdfcb707ebacb7928ce4f6199d0b78cd9e118a28361a3dfb7dd45c73e31c684506cde1b22aeecd72ef1672834ba8e8e07dce673344410c4f03745fc25178a0847deff3f1034bbcafc244d1804a6bc647facbd1c02dd25187c99cfff2ca5
+      modulus_length: 2048
+      not_after: '1608819344'
+      not_before: '1577283344'
+      serial: 011ea91328
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: api.ettafly.com
+      validation_type: ~
+    ettafly_com_b3461_600ed_1608819015_df0574d03c3a32c9798a527cb215920c: 
+      created: '1577283015'
+      domains: 
+        - ettafly.com
+        - mail.ettafly.com
+        - www.ettafly.com
+        - cpanel.ettafly.com
+        - webmail.ettafly.com
+        - webdisk.ettafly.com
+      friendly_name: Cert for “ettafly.com”
+      id: ettafly_com_b3461_600ed_1608819015_df0574d03c3a32c9798a527cb215920c
+      is_self_signed: 1
+      issuer.commonName: ettafly.com
+      issuer.organizationName: ~
+      modulus: b34615cddc83853bc3ee08dc947cfc5a020d34fcedcc5e83cce7695b23a66559ba62c375e30dcc46e1d0a7256baeceb03ae71ca1efb18811477b6948f1c20a20fbf986149e2d739f1eb77244878dd95fce0da0bea369fca0e57ec06719e6d565273508be1899f35ef64c9ecd3503bb982ceebae29de54f47498501057df50bb8c4b42d074dfcca44a2b768a22da6e51ecfa8a3ab6b185e1e0217a60039a8fdad7efa2d990beee18443816e28e08bff55637e13bdf01a93d152bcc2fc1b289622fa90f593fb8a831f2a3e6fe11bb23b3258a08590fd5516d43fef08314cbf8bfebd162871d1208dfbd678948ee6a23297e80881b05a62b22098008d5d37d600ed
+      modulus_length: 2048
+      not_after: '1608819015'
+      not_before: '1577283015'
+      serial: 023feac1cd
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ettafly.com
+      validation_type: ~
+  key: 
+    b0975_f2ca5_e224c95737638709885f7f7ae5cbe0eb: 
+      created: '1577283344'
+      friendly_name: Key for “api.ettafly.com”
+      id: b0975_f2ca5_e224c95737638709885f7f7ae5cbe0eb
+      modulus: b0975aa4e84ce6e40d2210838be59b32414a1bd8fd2301ccc2a489645bc57cc730b72c59af5450a30cc1def88f9e9bd52c158f59c76d7ccab7b029140e8e2adf9b5912eae922c5a03554a767bbe2b2139803f54e79c8b8189a0339b48f960e8ca1bf8d9f71d4d833081e6560ce9f87f9200d35e6601ec3d3f56c8fe6d7afdcc0d9f01e0528a63f121eb2ffe75a2fac9568463eee51db09c3fddb6f6e5aa4c5a442fb1cdfcb707ebacb7928ce4f6199d0b78cd9e118a28361a3dfb7dd45c73e31c684506cde1b22aeecd72ef1672834ba8e8e07dce673344410c4f03745fc25178a0847deff3f1034bbcafc244d1804a6bc647facbd1c02dd25187c99cfff2ca5
+      modulus_length: 2048
+    b3461_600ed_b77bda90e286d12635e3c5faa095df3a: 
+      created: '1577283015'
+      friendly_name: Key for “ettafly.com”
+      id: b3461_600ed_b77bda90e286d12635e3c5faa095df3a
+      modulus: b34615cddc83853bc3ee08dc947cfc5a020d34fcedcc5e83cce7695b23a66559ba62c375e30dcc46e1d0a7256baeceb03ae71ca1efb18811477b6948f1c20a20fbf986149e2d739f1eb77244878dd95fce0da0bea369fca0e57ec06719e6d565273508be1899f35ef64c9ecd3503bb982ceebae29de54f47498501057df50bb8c4b42d074dfcca44a2b768a22da6e51ecfa8a3ab6b185e1e0217a60039a8fdad7efa2d990beee18443816e28e08bff55637e13bdf01a93d152bcc2fc1b289622fa90f593fb8a831f2a3e6fe11bb23b3258a08590fd5516d43fef08314cbf8bfebd162871d1208dfbd678948ee6a23297e80881b05a62b22098008d5d37d600ed
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b0975aa4e84ce6e40d2210838be59b32414a1bd8fd2301ccc2a489645bc57cc730b72c59af5450a30cc1def88f9e9bd52c158f59c76d7ccab7b029140e8e2adf9b5912eae922c5a03554a767bbe2b2139803f54e79c8b8189a0339b48f960e8ca1bf8d9f71d4d833081e6560ce9f87f9200d35e6601ec3d3f56c8fe6d7afdcc0d9f01e0528a63f121eb2ffe75a2fac9568463eee51db09c3fddb6f6e5aa4c5a442fb1cdfcb707ebacb7928ce4f6199d0b78cd9e118a28361a3dfb7dd45c73e31c684506cde1b22aeecd72ef1672834ba8e8e07dce673344410c4f03745fc25178a0847deff3f1034bbcafc244d1804a6bc647facbd1c02dd25187c99cfff2ca5: 
+        api_ettafly_com_b0975_f2ca5_1608819344_2e41fc29cdc3643bbd71579f3e100bb0: ~
+      b34615cddc83853bc3ee08dc947cfc5a020d34fcedcc5e83cce7695b23a66559ba62c375e30dcc46e1d0a7256baeceb03ae71ca1efb18811477b6948f1c20a20fbf986149e2d739f1eb77244878dd95fce0da0bea369fca0e57ec06719e6d565273508be1899f35ef64c9ecd3503bb982ceebae29de54f47498501057df50bb8c4b42d074dfcca44a2b768a22da6e51ecfa8a3ab6b185e1e0217a60039a8fdad7efa2d990beee18443816e28e08bff55637e13bdf01a93d152bcc2fc1b289622fa90f593fb8a831f2a3e6fe11bb23b3258a08590fd5516d43fef08314cbf8bfebd162871d1208dfbd678948ee6a23297e80881b05a62b22098008d5d37d600ed: 
+        ettafly_com_b3461_600ed_1608819015_df0574d03c3a32c9798a527cb215920c: ~
+    subject.commonName: 
+      api.ettafly.com: 
+        api_ettafly_com_b0975_f2ca5_1608819344_2e41fc29cdc3643bbd71579f3e100bb0: ~
+      ettafly.com: 
+        ettafly_com_b3461_600ed_1608819015_df0574d03c3a32c9798a527cb215920c: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “api.ettafly.com”: api_ettafly_com_b0975_f2ca5_1608819344_2e41fc29cdc3643bbd71579f3e100bb0
+      Cert for “ettafly.com”: ettafly_com_b3461_600ed_1608819015_df0574d03c3a32c9798a527cb215920c
+  key: 
+    friendly_name: 
+      Key for “api.ettafly.com”: b0975_f2ca5_e224c95737638709885f7f7ae5cbe0eb
+      Key for “ettafly.com”: b3461_600ed_b77bda90e286d12635e3c5faa095df3a
+    modulus: 
+      b0975aa4e84ce6e40d2210838be59b32414a1bd8fd2301ccc2a489645bc57cc730b72c59af5450a30cc1def88f9e9bd52c158f59c76d7ccab7b029140e8e2adf9b5912eae922c5a03554a767bbe2b2139803f54e79c8b8189a0339b48f960e8ca1bf8d9f71d4d833081e6560ce9f87f9200d35e6601ec3d3f56c8fe6d7afdcc0d9f01e0528a63f121eb2ffe75a2fac9568463eee51db09c3fddb6f6e5aa4c5a442fb1cdfcb707ebacb7928ce4f6199d0b78cd9e118a28361a3dfb7dd45c73e31c684506cde1b22aeecd72ef1672834ba8e8e07dce673344410c4f03745fc25178a0847deff3f1034bbcafc244d1804a6bc647facbd1c02dd25187c99cfff2ca5: b0975_f2ca5_e224c95737638709885f7f7ae5cbe0eb
+      b34615cddc83853bc3ee08dc947cfc5a020d34fcedcc5e83cce7695b23a66559ba62c375e30dcc46e1d0a7256baeceb03ae71ca1efb18811477b6948f1c20a20fbf986149e2d739f1eb77244878dd95fce0da0bea369fca0e57ec06719e6d565273508be1899f35ef64c9ecd3503bb982ceebae29de54f47498501057df50bb8c4b42d074dfcca44a2b768a22da6e51ecfa8a3ab6b185e1e0217a60039a8fdad7efa2d990beee18443816e28e08bff55637e13bdf01a93d152bcc2fc1b289622fa90f593fb8a831f2a3e6fe11bb23b3258a08590fd5516d43fef08314cbf8bfebd162871d1208dfbd678948ee6a23297e80881b05a62b22098008d5d37d600ed: b3461_600ed_b77bda90e286d12635e3c5faa095df3a
